@@ -2,4 +2,5 @@ A faire
 - ceci
 - cela
 - autre chose
-- et encore ça
+- ou peut etre ça
+- faire une branch GIT
