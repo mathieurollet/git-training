@@ -4,3 +4,5 @@ A faire
 - autre chose
 - ou peut etre ça
 - faire une branch GIT
+- et commiter
+
